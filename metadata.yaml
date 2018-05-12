@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '3256'
     url: http://www.gutenberg.org/2009/agents/3256
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19759#Address-by-Honorable-Franklin-K.-Lane-Secretary-of-the-Interior-at-Conference-of-Regional-Cha_
 gutenberg_bookshelf: Technology
 gutenberg_issued: '2006-11-11'
 gutenberg_type: Text
